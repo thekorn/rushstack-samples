@@ -16,7 +16,7 @@
    * path segment in the "$schema" field for all your Rush config files.  This will ensure
    * correct error-underlining and tab-completion for editors such as VS Code.
    */
-  "rushVersion": "5.47.0",
+  "rushVersion": "5.52.0",
 
   /**
    * The next field selects which package manager should be installed and determines its version.
@@ -462,22 +462,22 @@
     // }
 
     // "heft" folder (alphabetical order)
-    {
-      "packageName": "heft-node-basic-tutorial",
-      "projectFolder": "heft/heft-node-basic-tutorial"
-    },
-    {
-      "packageName": "heft-node-jest-tutorial",
-      "projectFolder": "heft/heft-node-jest-tutorial"
-    },
-    {
-      "packageName": "heft-node-rig-tutorial",
-      "projectFolder": "heft/heft-node-rig-tutorial"
-    },
-    {
-      "packageName": "heft-webpack-basic-tutorial",
-      "projectFolder": "heft/heft-webpack-basic-tutorial"
-    },
+    //{
+    //  "packageName": "heft-node-basic-tutorial",
+    //  "projectFolder": "heft/heft-node-basic-tutorial"
+    //},
+    //{
+    //  "packageName": "heft-node-jest-tutorial",
+    //  "projectFolder": "heft/heft-node-jest-tutorial"
+    //},
+    //{
+    //  "packageName": "heft-node-rig-tutorial",
+    //  "projectFolder": "heft/heft-node-rig-tutorial"
+    //},
+    //{
+    //  "packageName": "heft-webpack-basic-tutorial",
+    //  "projectFolder": "heft/heft-webpack-basic-tutorial"
+    //},
 
     // "other" folder (alphabetical order)
     {
